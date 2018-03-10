@@ -7,6 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "prop-types": "^15.6.1",
     "react": "16.0.0",
     "react-native": "0.50.3",
     "react-native-button": "^2.1.0",
